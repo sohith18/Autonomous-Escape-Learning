@@ -1,0 +1,38 @@
+{
+    "EscapeAgent": {
+        "checkpoints": [
+            {
+                "steps": 499990,
+                "file_path": "results/ppo_default/EscapeAgent/EscapeAgent-499990.onnx",
+                "reward": 0.9347189283471996,
+                "creation_time": 1746518147.7091289,
+                "auxillary_file_paths": [
+                    "results/ppo_default/EscapeAgent/EscapeAgent-499990.pt"
+                ]
+            },
+            {
+                "steps": 500013,
+                "file_path": "results/ppo_default/EscapeAgent/EscapeAgent-500013.onnx",
+                "reward": 0.9347478890922708,
+                "creation_time": 1746518147.838757,
+                "auxillary_file_paths": [
+                    "results/ppo_default/EscapeAgent/EscapeAgent-500013.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 500013,
+            "file_path": "results/ppo_default/EscapeAgent.onnx",
+            "reward": 0.9347478890922708,
+            "creation_time": 1746518147.838757,
+            "auxillary_file_paths": [
+                "results/ppo_default/EscapeAgent/EscapeAgent-500013.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "0.30.0",
+        "torch_version": "1.11.0"
+    }
+}
