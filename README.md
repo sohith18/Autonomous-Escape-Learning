@@ -93,3 +93,7 @@ Then visit: http://localhost:6006
 
 
 ---
+
+## Contributors
+[@siddharthmaram](https://github.com/siddharthmaram)
+[@sohith18](https://github.com/sohith18)
