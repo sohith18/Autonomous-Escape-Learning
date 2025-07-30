@@ -4,6 +4,20 @@ This project implements a Unity ML-Agents environment where an agent learns to n
 
 ---
 
+## Scene Screenshots
+
+- **Agent View**  
+  ![Agent View](images/AgentView.png)
+
+- **Inside View**  
+  ![Inside View](images/InsideView.png)
+
+- **Total View**  
+  ![Total View](images/TotalView.png)
+
+---
+
+
 ## Included in this Zip
 
 - Unity project folder
@@ -82,6 +96,20 @@ Use TensorBoard:
 tensorboard --logdir results
 ```
 Then visit: http://localhost:6006
+
+---
+
+## Graphs
+
+- **The graph showing mean reward vs steps for different runs**  
+  ![The graph showing mean reward vs steps for different runs](images/MeanReward_Graph.png)
+
+- **The graph showing mean reward vs steps for different runs in logarithmic scale**  
+  ![The graph showing mean reward vs steps for different runs in logarithmic scale](images/MeanReward_Graph_logscale.png)
+
+- **Graph Legends**  
+  ![Legends](images/Graph_Legends.png)
+
 
 ---
 
